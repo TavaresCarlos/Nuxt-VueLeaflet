@@ -54,6 +54,8 @@ The plugins directory contains JavaScript plugins that you want to run before in
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
 
+<strong>nuxt-leaflet:</strong>
+
 ### `static`
 
 This directory contains your static files. Each file inside this directory is mapped to `/`.
